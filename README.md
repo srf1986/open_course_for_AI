@@ -26,4 +26,19 @@
 
 4.一定要使用课程定制的RaspberryOS操作系统，因为您需要在树莓派官方的系统上，安装很多软件才能开始本课程学习，这个安装工作相当痛苦。
 
+## 课程资源
+
+1、学习视频（持续更新中）：正在制作中...
+
+2、课程定制系统镜像下载：
+     链接：https://pan.baidu.com/s/14KYZl21Hyf3sjjcWxa5_bg 
+     提取码：dbe5
+    
+3、课程代码：
+     国内gitee托管地址：https://gitee.com/shiranfei/open_course_for_AI.git
+     国外github托管地址：https://gitee.com/shiranfei/open_course_for_AI.git
+
+4、课程交流群：
+     QQ群：902672207
+
 
