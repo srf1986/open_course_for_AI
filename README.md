@@ -31,11 +31,15 @@
 1、学习视频（持续更新中）：正在制作中...
 
 2、课程定制系统镜像下载：
+
      链接：https://pan.baidu.com/s/14KYZl21Hyf3sjjcWxa5_bg 
+
      提取码：dbe5
     
 3、课程代码：
+
      国内gitee托管地址：https://gitee.com/shiranfei/open_course_for_AI.git
+
      国外github托管地址：https://gitee.com/shiranfei/open_course_for_AI.git
 
 4、课程交流群：
