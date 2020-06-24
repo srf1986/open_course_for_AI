@@ -40,7 +40,7 @@
 
      国内gitee托管地址：https://gitee.com/shiranfei/open_course_for_AI.git
 
-     国外github托管地址：https://gitee.com/shiranfei/open_course_for_AI.git
+     国外github托管地址：https://github.com/srf1986/open_course_for_AI.git
 
 4、课程交流群：
      QQ群：902672207
